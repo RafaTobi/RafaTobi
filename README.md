@@ -1,12 +1,11 @@
 ## Hi there 👋, I'm Rafaël Tobias
 
-I'm a Full Stack Developer and AI enthusiast. I enjoy building projects using mainly **Python** but **C# ASP.NET**, and **Java** as well.
+I'm a Full Stack Developer and AI enthusiast, building projects mainly with **Python**, but also **C# ASP.NET** and **Java**.
 
 ## About Me
-- 🔭 I’m currently focused on building Python projects, data engineering while exploring advanced machine learning & LLMs.
+- 🔭 Focused on Python projects, data engineering, and exploring advanced machine learning & LLMs.
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/rafa%C3%ABl-tobias-1831a0348/)
 
 ## Skills
-- **Languages:** Python, C#, Java, HTML/CSS, Javascript
+- **Languages:** Python, C#, Java, HTML/CSS, JavaScript
 - **AI/ML:** Prediction models, DL, LLMs, Chatbots
-  
